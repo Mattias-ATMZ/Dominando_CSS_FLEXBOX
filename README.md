@@ -1,5 +1,3 @@
-# Dominando_CSS_FLEXBOX
-
-### RESUMO:
-
-<img src="https://user-images.githubusercontent.com/99132374/198841017-4865a06c-9c46-43c9-a429-eac32850dae4.png">
+# RESUMO_CSS_FLEXBOX_GRID
+![css-flexbox-poster](https://user-images.githubusercontent.com/99132374/198842113-44d2d9e6-1de6-426f-beaa-16841a786081.png)
+![css-grid-poster](https://user-images.githubusercontent.com/99132374/198842116-f87ac1d8-6948-422e-bca7-6395052ebd70.png)
